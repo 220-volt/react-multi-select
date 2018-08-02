@@ -336,7 +336,7 @@ var styles = {
         position: 'absolute',
         top: '100%',
         width: '100%',
-        zIndex: 1,
+        zIndex: 2000,
         overflowY: 'auto'
     }
 };
